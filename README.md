@@ -2,6 +2,7 @@
 
 > 一个 [Claude Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) —— 把一个生活妙招选题,端到端做成**可直接发布的竖屏 AI 短视频(自带 AI 配音)**。
 
+[![下载 .skill](https://img.shields.io/github/v/release/Frank-oll/ai-video-creator?label=下载%20.skill&color=blueviolet)](https://github.com/Frank-oll/ai-video-creator/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/平台-抖音%20%7C%20小红书%20%7C%20视频号-ff2c55.svg)
@@ -65,7 +66,7 @@ git clone https://github.com/Frank-oll/ai-video-creator.git
 - **claude.ai**:Settings → Skills → Upload(先把目录打包成 `.skill` / zip 再上传)
 - 其他遵循 SKILL.md 规范的 agent(Kimi 等):放进各自的 skills 目录
 
-**方式 B · 下载 Release / `.skill` 包** 直接上传到 claude.ai。
+**方式 B · 下载 [`.skill` / `.zip` 包](https://github.com/Frank-oll/ai-video-creator/releases/latest)**(在 Release 页),直接上传到 claude.ai(Settings → Skills → Upload)。
 
 ### 2. 安装依赖
 
