@@ -84,6 +84,17 @@ sudo apt install ffmpeg      # Ubuntu/Debian
 「模型管理」免费开通 **Doubao-Seedream-5.0-Lite** 和 **Doubao-Seedance-1.5-Pro** →
 「API Key 管理」新建 key(以 `ark-` 开头)。余额建议 ≥ ¥10。
 
+## 支持的智能体(跨平台)
+
+本 skill 遵循通用的 **SKILL.md / Agent Skill 规范**,不绑定单一客户端。除了 Claude Code、
+claude.ai,理论上也能放进其他兼容该规范的智能体使用,例如 **WorkBuddy、Marvis、OpenClaw、
+Hermes** 等。
+
+> ⚠️ **使用效果因模型而异**:本 skill 重度依赖宿主智能体的底层模型能力——多模态自检(看图判断
+> 画面一致性)、中文语义理解、命令行/工具调用、长流程编排。不同智能体接入的模型不同,**出片
+> 质量与稳定性会有差异**;能力较弱的模型可能需要更多人工确认或重试。建议优先选用多模态和中文
+> 能力较强的模型,以获得最佳效果。
+
 ## 首次使用
 
 在 chat 里说:**"做一条妙招短视频"**(或直接说方向:"做一条阳台种菜的短视频")。
