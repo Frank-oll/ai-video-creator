@@ -12,9 +12,6 @@ video — consistent storyboard images → image-to-video clips with **native AI
 final cut. Single gateway (Volcengine ARK), single key. All generation prompts are in Chinese by design
 (Seedream / Seedance are ByteDance models tuned for Chinese semantics).
 
-> ℹ️ **仓库名 vs skill 名**:仓库叫 `ai-video-creator`(描述性命名);skill 内部 `name:` 字段保留
-> 为 `ai-video-sannong`(历史沿革——最早为三农园艺垂类而写,改它会影响触发)。如今**题材通用**:
-> 三农园艺、美食妙招、家居清洁收纳、宠物、育儿……每次开场会先问你做哪个方向,内置题材包可扩展。
 
 ## 它做什么
 
