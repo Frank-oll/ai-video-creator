@@ -1,4 +1,4 @@
-# AI 妙招短视频生产线 · ai-video-creator
+# AI 短视频skill · ai-video-creator
 
 > 一个 [Claude Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) —— 把一个生活妙招选题,端到端做成**可直接发布的竖屏 AI 短视频(自带 AI 配音)**。
 
